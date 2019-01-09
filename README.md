@@ -1,4 +1,4 @@
-# ![](https://ga-dash.s3.amazonaws.com/production/assets/logo-9f88ae6c9c3871690e33280fcf557f33.png) Recommender Systems I
+# ![](https://ga-dash.s3.amazonaws.com/production/assets/logo-9f88ae6c9c3871690e33280fcf557f33.png) Recommender Systems Walkthrough
 
 ---
 
@@ -7,7 +7,8 @@
 
 | Topic | Description | Link |
 | --- | --- | --- |
-| Lesson | Recommender Systems I | [Link](./rec-engines-lesson.ipynb)|
+| Cosine Similarity | Slide Deck | [Link](./8.07-lesson-recommender-walkthrough.pdf)|
+| Lesson | Recommender Systems Walkthrough | [Link](./Codealong.ipynb)|
 
 ---
 
@@ -15,9 +16,9 @@
 
 *After this lesson, students will be able to:*
 
-1. Explain how a recommendation engine functions 
+1. Understand Cosine Similarity
 2. Explain the math behind recommendation engines
-3. Explain the types of recommendation engines and their pros and cons
+3. Create an item-based movie recommender
 
 
 ---
@@ -26,11 +27,10 @@
 
 > **Total Time: 90 mins**
 
-I. **Recommender Systems I** (90 minutes total)
-- What is a recommender system?
-- Explicit vs. implicit data
-- User based collaborative filtering
-- Item based collaborative filtering 
+I. **Recommender Systems Walkthrough** (90 minutes total)
+- Cosine Similarity
+- Types of Recommender Systems
+- Movie recommender
 
 
 ---
