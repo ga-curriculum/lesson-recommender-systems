@@ -1,4 +1,4 @@
-# ![](https://ga-dash.s3.amazonaws.com/production/assets/logo-9f88ae6c9c3871690e33280fcf557f33.png) Recommender Systems Walkthrough
+# ![](https://ga-dash.s3.amazonaws.com/production/assets/logo-9f88ae6c9c3871690e33280fcf557f33.png) Recommender Systems
 
 ---
 
@@ -7,8 +7,8 @@
 
 | Topic | Description | Link |
 | --- | --- | --- |
-| Cosine Similarity | Slide Deck | [Link](./8.07-lesson-recommender-walkthrough.pdf)|
-| Lesson | Recommender Systems Walkthrough | [Link](./Codealong.ipynb)|
+| Cosine Similarity | Slide Deck | [Link](./recommender.pdf)|
+| Lesson | Movie Recommender | [Link](./starter-code.ipynb)|
 
 ---
 
