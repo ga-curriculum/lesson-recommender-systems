@@ -44,5 +44,4 @@ I. **Recommender Systems Walkthrough** (90 minutes total)
 - [NY Times Rec System](https://open.blogs.nytimes.com/2015/08/11/building-the-next-new-york-times-recommendation-engine)
 - [Evaluating Rec Systems](https://www.quora.com/How-do-you-measure-and-evaluate-the-quality-of-recommendation-engines)
 - Tutorials:
-    - [DataCamp](https://www.datacamp.com/community/tutorials/recommender-systems-python)
     - [Kaggle](https://www.kaggle.com/gspmoreira/recommender-systems-in-python-101)
