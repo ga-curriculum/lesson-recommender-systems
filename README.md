@@ -7,8 +7,10 @@
 
 | Topic | Description | Link |
 | --- | --- | --- |
-| Cosine Similarity | Slide Deck | [Link](./recommender.pdf)|
+| Hulu Case Study | Slide Deck | [Link](./hulu-case-study.pdf)|
+| Lesson | Rec Engines | [Link](./rec-engines-lesson.ipynb)|
 | Lesson | Movie Recommender | [Link](./starter-code.ipynb)|
+| Cosine Similarity | Slide Deck | [Link](./recommender.pdf)|
 
 ---
 
@@ -25,13 +27,19 @@
 
 ## Lesson Outline
 
-> **Total Time: 90 mins**
+> **Total Time: 110 mins**
 
-I. **Recommender Systems Walkthrough** (90 minutes total)
+I. **Recommender Systems Walkthrough** (60 minutes total)
 - Cosine Similarity
 - Types of Recommender Systems
 - Movie recommender
 
+II. **Recommender Systems Hands-On** (30 minutes total)
+- Practice creating a user-based movie recommender
+
+III. **Hulu Case Study** (20 minutes total)
+- Jaccard Similarity
+- Hulu Recommendation System
 
 ---
 
