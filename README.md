@@ -7,9 +7,8 @@
 
 | Topic | Description | Link |
 | --- | --- | --- |
-| Cosine Similarity | Slide Deck | [Link](./recommender.pdf)|
-| Lesson | Movie Recommender | [Link](./starter-code.ipynb)|
-| Hulu Case Study | Slide Deck | [Link](./rec-case-study.pdf)|
+| Cosine Similarity | Slide Deck | [Link](./recommenders.pdf)|
+| Lesson | Movie Recommender | [Link](./recommenders-blank.ipynb)|
 
 ---
 
